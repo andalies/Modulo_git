@@ -1,0 +1,4 @@
+eai: > arquivo2.txt
+e
+
+
